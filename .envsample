@@ -1,0 +1,6 @@
+MONGODB_URL_LOCAL=mongodb://localhost:27017/footbuzz
+
+NODE_ENV=development
+PORT=3001
+
+JWT_ENCRYPTION_KEY=YOUR_JWT_SECRET_KEY
